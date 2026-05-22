@@ -1,0 +1,31 @@
+# Scraped data — produced by running the pipeline, NEVER committed
+snapshots/
+news/
+events/
+reports/
+corrections/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Editor & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local environment overrides
+.env
+.env.local
